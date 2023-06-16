@@ -24,4 +24,4 @@ This is a simple calculator created using HTML, CSS, and JavaScript. The calcula
 
 ## Acknowledgments
 
-This Connect Four game was created by Kevin Li. Feel free to use, modify, and distribute this code as you wish. Enjoy playing!
+This calculator was created by Kevin Li. Feel free to use, modify, and distribute this code as you wish. Enjoy playing!
